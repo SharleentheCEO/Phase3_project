@@ -109,7 +109,7 @@ Contributions are welcome! If you want to improve this project:
 2. Create a new branch.
 3. Submit a pull request.
 
-##For More Information
-See the full analysis in the Jupyter Notebook or review this presentation . For additional information, contact Scholar Chepkirui at scholarchepkirui@gmail.com
+## For More Information
+See the full analysis in the Jupyter Notebook or review this presentation . For additional information, contact Sharleen Liz at lizsharleen381@gmail.com
 
 
