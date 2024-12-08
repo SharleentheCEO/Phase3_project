@@ -1,9 +1,5 @@
 # SyriaTel Customer Churn Prediction
-# Path to the image
-image_path = r"C:\Users\Administrator\Documents\Flatiron\Phase_3\project\Customer-Churn.png"
-
-# Display the image
-display(Image(filename=image_path, width=1200, height=100))
+<img src="C:\Users\Administrator\Documents\Flatiron\Phase_3\project\Customer-Churn.png" width="1200" height="100" />
 
 This project aims to analyze customer churn behavior for SyriaTel, a telecommunications company, using machine learning techniques. By understanding the factors contributing to customer churn, we can provide actionable insights to reduce customer attrition and improve customer retention strategies.
 
