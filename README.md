@@ -45,13 +45,13 @@ The dataset used in this project contains information about SyriaTel's customers
    - Identify patterns and trends influencing churn.
 3. **Model Training:**
    - Comparison of multiple models including Decision Trees, Random Forests, and Logistic Regression.
-   - #Logistic Regression
+   - ### Logistic Regression
    -    Accuracy: 0.82 Precision: 0.72 Recall: 0.65 F1-score: 0.52 AUC-ROC Score: 0.83 Summary: Logistic Regression achieves moderate accuracy and precision but lower recall compared 
          to other models. The AUC-ROC score indicates good overall performance.
-   - #Decision Trees
+   - ### Decision Trees
    -    Accuracy: 0.87 Precision: 0.56 Recall: 0.74 F1-score: 0.62 AUC-ROC Score: 0.82 Summary: Decision Tree exhibits lower accuracy and precision than Random Forest. However, it also 
         has lower recall and a slightly lower AUC-ROC score, indicating suboptimal performance
-     #Random Forest
+     ### Random Forest
         Accuracy: 0.92 Precision: 0.71 Recall: 0.791 AUC-ROC Score: 0.91 Summary: Random Forest improves accuracy, precision, and recall compared to Decision Tree. Its AUC-ROC score is 
         the highest
    - Use hyperparameter tuning (e.g., Grid Search) to optimize models.
