@@ -110,6 +110,6 @@ Contributions are welcome! If you want to improve this project:
 3. Submit a pull request.
 
 ## For More Information
-See the full analysis in the Jupyter Notebook ipynb_checkpoints or review this presentation . For additional information, contact Sharleen Liz at lizsharleen381@gmail.com
+See the full analysis in the Jupyter Notebook https://github.com/SharleentheCEO/Phase3_project/tree/master/.ipynb_checkpoints or review this presentation . For additional information, contact Sharleen Liz at lizsharleen381@gmail.com
 
 
